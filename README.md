@@ -1,53 +1,30 @@
 <div align="center">
-
-  <img src="https://github.com/amiyshukla1-tech.png" width="130" height="130" style="border-radius: 50%;" alt="Amiy Shukla Avatar" />
-
-  # Hi there, I'm Amiy Shukla 👋
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Learning+DSA+%7C+Full+Stack+%7C+Python+%F0%9F%92%BB;Building+practical+software+projects+%F0%9F%9A%80;Exploring+core+computer+science+%F0%9F%A7%A0" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <b>B.Tech Computer Science & Engineering Undergraduate</b> · India 🇮🇳
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/amiyshukla1-tech">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/amiyshukla1-tech">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:amiyshukla1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-amiyshukla1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://leetcode.com/u/amiyshukla1-tech">
-      <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
-
+<table border="0" style="border: 1px solid #30363d; border-radius: 12px; background: #0d1117;">
+<tr>
+<td colspan="2" align="left" style="background: #161b22; padding: 10px 14px; border-bottom: 1px solid #30363d;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Circle.png" width="12" height="12" alt="red" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" width="12" height="12" alt="yellow" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" width="12" height="12" alt="green" />
+&nbsp;&nbsp;
+<code style="color: #58a6ff; font-family: 'Fira Code', monospace; font-size: 13px;">amiyshukla1-tech@dev-console: ~/profile (zsh)</code>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center" valign="middle" style="padding: 14px 10px; border-right: 1px solid #30363d;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=210&height=28&lines=%5B+SCANNING+BIOMETRICS...+%5D;%5B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%5D;%5B+%E2%9C%93+IDENTITY+CONFIRMED+%5D;AMIY+SHUKLA+%E2%80%A2+DEV" alt="Scanning Biometrics" /><br/>
+<img src="https://github.com/amiyshukla1-tech.png" width="135" height="135" style="border-radius: 12px; border: 2px solid #00D26A;" alt="Amiy Shukla" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=210&height=28&lines=STATUS%3A+ONLINE+%E2%97%8F;ROLE%3A+CSE+Undergraduate;LOC%3A+Lucknow%2C+India" alt="System Status" />
+</td>
+<td width="70%" align="left" valign="top" style="padding: 12px 16px;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=4200&pause=1000&color=39FF14&background=0D111700&multiline=true&width=510&height=220&lines=%24+whoami;%3E+Amiy+Shukla+%7C+CSE+Undergraduate;%24+cat+current_learning.txt;%3E+%5B%E2%9C%93%5D+DSA+in+C+%7C+Algorithms+%26+Logic;%3E+%5B%E2%9C%93%5D+Python+%7C+Scripting+%26+Problem+Solving;%3E+%5B%E2%9C%93%5D+Full+Stack+%7C+Tailwind+%2B+daisyUI+%2B+JS;%24+cat+current_project.txt;%3E+%5B%E2%98%85%5D+Weather+App+%7C+Visual+Crossing+Weather+API;%24+echo+%22Ready+to+collaborate!%22;%3E+Ready+to+collaborate!+%F0%9F%9A%80" alt="Hacker Terminal" /><br/>
+<a href="https://github.com/amiyshukla1-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/amiy-shukla-88598b322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:amiyshukla1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/amiyshukla1-tech"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</td>
+</tr>
+</table>
 </div>
-
----
-
-### 👨‍💻 About Me
-
-```yaml
-name: Amiy Shukla
-education: B.Tech in Computer Science & Engineering
-location: India
-current_focus: Data Structures & Algorithms & Full-Stack Development
-core_language: Python & C
-status: Learning, building, and solving problems daily
-```
-
-- 🎓 **Undergraduate Student** pursuing a B.Tech degree in Computer Science and Engineering.
-- 💡 **Data Structures & Algorithms**: Actively practicing core concepts, data structures, and problem-solving using **C**.
-- 🐍 **Python**: Primary language for algorithmic problem solving, scripting, and general software development.
-- 🌐 **Full-Stack Web Development**: Building practical web applications using modern web standards (**HTML5, CSS3, JavaScript, Tailwind CSS, daisyUI**).
-- ⚙️ **Tools & Version Control**: Developing clean development workflows with **Git** and **GitHub**.
-- 🚀 **Philosophy**: Focus on fundamentals, write clean code, and learn by shipping real projects.
 
 ---
 
@@ -143,7 +120,7 @@ status: Learning, building, and solving problems daily
     <img src="https://img.shields.io/badge/GitHub-amiyshukla1--tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/amiyshukla1-tech">
+  <a href="https://linkedin.com/in/amiy-shukla-88598b322">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
