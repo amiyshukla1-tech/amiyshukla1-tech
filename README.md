@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=210&height=28&lines=STATUS%3A+ONLINE+%E2%97%8F;ROLE%3A+CSE+Undergraduate;LOC%3A+Lucknow%2C+India" alt="System Status" />
 </td>
 <td width="70%" align="left" valign="top" style="padding: 12px 16px;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=4200&pause=1000&color=39FF14&background=0D111700&multiline=true&width=510&height=220&lines=%24+whoami;%3E+Amiy+Shukla+%7C+CSE+Undergraduate;%24+cat+current_learning.txt;%3E+%5B%E2%9C%93%5D+DSA+in+C+%7C+Algorithms+%26+Logic;%3E+%5B%E2%9C%93%5D+Python+%7C+Scripting+%26+Problem+Solving;%3E+%5B%E2%9C%93%5D+Full+Stack+%7C+Tailwind+%2B+daisyUI+%2B+JS;%24+cat+current_project.txt;%3E+%5B%E2%98%85%5D+Weather+App+%7C+Visual+Crossing+Weather+API;%24+echo+%22Ready+to+collaborate!%22;%3E+Ready+to+collaborate!+%F0%9F%9A%80" alt="Hacker Terminal" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=4200&pause=1000&color=39FF14&background=0D111700&multiline=true&width=530&height=220&lines=%24+whoami;%3E+Amiy+Shukla+%7C+CSE+Undergraduate+%7C+Front-end+Developer;%24+cat+current_learning.txt;%3E+%5B%E2%9C%93%5D+DSA+in+C+%7C+Algorithms+%26+Logic;%3E+%5B%E2%9C%93%5D+Python+%7C+Scripting+%26+Problem+Solving;%3E+%5B%E2%9C%93%5D+Full+Stack+%7C+Front-end+Development;%24+cat+current_project.txt;%3E+%5B%E2%98%85%5D+Weather+App+%7C+Visual+Crossing+Weather+API;%24+echo+%22Ready+to+collaborate!%22;%3E+Ready+to+collaborate!+%F0%9F%9A%80" alt="Hacker Terminal" /><br/>
 <a href="https://github.com/amiyshukla1-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/amiy-shukla-88598b322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:amiyshukla1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -94,8 +94,8 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiyshukla1-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiyshukla1-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=amiyshukla1-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
 <br />
@@ -107,7 +107,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiyshukla1-tech&bg_color=0D1117&color=00D26A&line=38B2AC&point=FFFFFF&area=true&hide_border=true&area_color=00D26A15" width="95%" alt="Activity Graph" />
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-profile-trophy.vercel.app/?username=amiyshukla1-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Achievements & Trophies" />
+  </a>
 </div>
 
 ---
