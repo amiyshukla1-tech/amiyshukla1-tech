@@ -7,7 +7,7 @@
 <a href="#readme"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yellow%20Circle.png" width="12" height="12" alt="yellow" /></a>
 <a href="#readme"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Circle.png" width="12" height="12" alt="green" /></a>
 &nbsp;&nbsp;
-<code style="color: #58a6ff; font-family: 'Fira Code', monospace; font-size: 13px;">amiyshukla1-tech@dev-console: ~/profile (zsh)</code>
+<code style="color: #58a6ff; font-family: 'Fira Code', monospace; font-size: 13px;">amiyshukla1-tech@dev-console
 </td>
 </tr>
 <tr>
