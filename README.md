@@ -103,21 +103,35 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <a href="#readme"><img src="https://github-stats-extended.vercel.app/api?username=amiyshukla1-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117" width="48%" alt="GitHub Stats" /></a>
-  <a href="#readme"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117" width="48%" alt="Top Languages" /></a>
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=amiyshukla1-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117" width="48%" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="#readme"><img src="https://streak-stats.demolab.com?user=amiyshukla1-tech&theme=tokyonight&hide_border=true&stroke=38B2AC&ring=00D26A&fire=00D26A&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&background=0D1117" width="70%" alt="GitHub Streak" /></a>
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://streak-stats.demolab.com?user=amiyshukla1-tech&theme=tokyonight&hide_border=true&stroke=38B2AC&ring=00D26A&fire=00D26A&currStreakLabel=38B2AC&sideLabels=9CA3AF&dates=9CA3AF&background=0D1117&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="#readme">
-    <img src="https://github-profile-trophy.vercel.app/?username=amiyshukla1-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Achievements & Trophies" />
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiyshukla1-tech&theme=tokyo-night&bg_color=0D1117&color=38B2AC&line=00D26A&point=FFFFFF&area=true&area_color=00D26A&hide_border=true" width="96%" alt="GitHub Contribution Activity Graph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-profile-trophy.vercel.app/?username=amiyshukla1-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Achievements & Trophies" />
   </a>
 </div>
 
