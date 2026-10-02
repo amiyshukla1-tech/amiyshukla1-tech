@@ -51,30 +51,37 @@
   <a href="#readme"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#readme"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="#readme"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+  <a href="#readme"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </p>
 
 ---
 
-### 📌 Current Project in Progress
+### 🚀 Featured Project: Skycast — Meteorological Web Platform
 
 <table>
   <tr>
     <td>
-      <h3>🌦️ <a href="https://github.com/amiyshukla1-tech/weather-app">Weather App</a></h3>
+      <div align="right">
+        <a href="https://weather-app-inky-kappa-22.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-00D26A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/amiyshukla1-tech/weather-app"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+      </div>
+      <h3>🌦️ <a href="https://weather-app-inky-kappa-22.vercel.app">Skycast</a> &nbsp;<code>LIVE ON VERCEL</code></h3>
       <p>
-        A responsive, modern weather web application powered by the <b>Visual Crossing Weather API</b>. Designed to deliver accurate forecast data with a clean, dynamic user experience.
+        A production-grade meteorological web application built with a modern <b>dark-emerald glassmorphism design system</b> and secure <b>serverless cloud architecture</b>.
       </p>
       <p>
         <b>Tech Stack:</b> 
-        <code>HTML5</code> · <code>CSS3</code> · <code>Tailwind CSS</code> · <code>daisyUI</code> · <code>JavaScript</code> · <code>REST API</code>
+        <code>JavaScript (ES6+)</code> · <code>Tailwind CSS v4</code> · <code>daisyUI v5</code> · <code>Vercel Serverless</code> · <code>Open-Meteo Geocoding</code> · <code>REST API</code>
       </p>
       <ul>
-        <li>Integrated live weather REST API endpoints and structured dynamic data handling.</li>
-        <li>Implemented DOM manipulation to update forecast and hourly conditions on user query.</li>
-        <li>Designed a mobile-first, responsive layout using Tailwind CSS and daisyUI components.</li>
+        <li>🎨 <b>Modern Glassmorphic UI:</b> Tailored dark-emerald glassmorphism with backdrop blur, custom atmospheric imagery, and fully responsive across mobile, tablet, and desktop.</li>
+        <li>⚡ <b>Core Meteorological Intelligence:</b> Real-time temperature, weather descriptions, wind velocity, precipitation probability, and dual 24-hour historical & future forecast strips.</li>
+        <li>🔍 <b>UX & Performance:</b> Debounced city autocomplete with zero wasted API calls, 30-minute client-side LocalStorage cache for instant 0ms repeat searches, and protected refresh confirmation modals.</li>
+        <li>🔒 <b>Production Security & CI/CD:</b> Dedicated <code>/api/weather.js</code> serverless proxy hiding private API keys from client DevTools, Edge CDN caching, and automated Git CI/CD deployments.</li>
       </ul>
       <p>
-        🔗 <b>Repository:</b> <a href="https://github.com/amiyshukla1-tech/weather-app">github.com/amiyshukla1-tech/weather-app</a>
+        🌐 <b>Live Application:</b> <a href="https://weather-app-inky-kappa-22.vercel.app">weather-app-inky-kappa-22.vercel.app</a><br/>
+        💻 <b>Source Code:</b> <a href="https://github.com/amiyshukla1-tech/weather-app">github.com/amiyshukla1-tech/weather-app</a>
       </p>
     </td>
   </tr>
@@ -84,11 +91,12 @@
 
 ### 📈 Learning & Progress Log
 
-- `[+]` Mastering Data Structures & Algorithms with **C**
-- `[+]` Developing clean, idiomatic code with **Python**
-- `[+]` Frontend engineering with **Tailwind CSS**, **daisyUI**, and vanilla **JavaScript**
-- `[+]` Working with asynchronous JavaScript and external REST APIs
-- `[+]` Improving version control best practices, atomic commits, and repository organization
+- `[✓]` Built & Deployed **Skycast** — production-grade weather web app on Vercel
+- `[✓]` Engineered Serverless API Proxy architecture (`/api/weather.js`) to secure backend API keys
+- `[✓]` Mastered **Tailwind CSS v4** & **daisyUI v5** with dark-emerald glassmorphism styling
+- `[+]` Deepening Data Structures & Algorithms problem-solving with **C**
+- `[+]` Advancing **Python** software development & algorithmic logic
+- `[+]` Architecting next full-stack practical projects with modern cloud workflows
 
 ---
 

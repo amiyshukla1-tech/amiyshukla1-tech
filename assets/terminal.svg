@@ -110,7 +110,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path6'>
-            $ cat current_project.txt
+            $ cat featured_project.txt
         </textPath>
     </text>
         <path id='path7'>
@@ -124,7 +124,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path7'>
-            &gt; [★] Weather App | Visual Crossing Weather API
+            &gt; [★] Skycast Weather | Live on Vercel
         </textPath>
     </text>
         <path id='path8'>
