@@ -123,7 +123,7 @@
 
 <div align="center">
   <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiyshukla1-tech&theme=tokyo-night&bg_color=0D1117&color=38B2AC&line=00D26A&point=FFFFFF&area=true&area_color=00D26A&hide_border=true" width="96%" alt="GitHub Contribution Activity Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiyshukla1-tech&theme=tokyonight" width="96%" alt="GitHub Contribution Activity Graph" />
   </a>
 </div>
 
@@ -131,7 +131,13 @@
 
 <div align="center">
   <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-profile-trophy.vercel.app/?username=amiyshukla1-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Achievements & Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiyshukla1-tech&theme=tokyonight" width="31%" alt="GitHub Stats Summary" />
+  </a>
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiyshukla1-tech&theme=tokyonight" width="31%" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/amiyshukla1-tech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiyshukla1-tech&theme=tokyonight&utcOffset=5.5" width="31%" alt="Productive Hours" />
   </a>
 </div>
 
