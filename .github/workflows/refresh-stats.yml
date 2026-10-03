@@ -9,6 +9,9 @@ on:
       - main
   workflow_dispatch: # Allows 1-click manual trigger from GitHub Actions tab
 
+permissions:
+  contents: read
+
 jobs:
   purge-cache:
     name: Refresh GitHub Camo Cache
