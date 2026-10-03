@@ -1,0 +1,53 @@
+name: Auto Refresh Profile Stats & Cache
+
+on:
+  schedule:
+    # Runs automatically every 6 hours to ensure stats stay fresh
+    - cron: '0 */6 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows 1-click manual trigger from GitHub Actions tab
+
+jobs:
+  purge-cache:
+    name: Refresh GitHub Camo Cache
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch Profile & Purge Camo Cache
+        run: |
+          node -e '
+            const https = require("https");
+            const { execSync } = require("child_process");
+
+            const username = "amiyshukla1-tech";
+            console.log("Fetching profile page for " + username + "...");
+
+            https.get("https://github.com/" + username, (res) => {
+              let data = "";
+              res.on("data", chunk => data += chunk);
+              res.on("end", () => {
+                const regex = /src="(https:\/\/camo\.githubusercontent\.com\/[^"]+)"/g;
+                let match;
+                const urls = new Set();
+                while ((match = regex.exec(data)) !== null) {
+                  urls.add(match[1]);
+                }
+
+                console.log("Found " + urls.size + " Camo URLs on profile.");
+                let purged = 0;
+                for (const url of urls) {
+                  try {
+                    const out = execSync("curl -s -X PURGE \"" + url + "\"").toString();
+                    if (out.includes("ok")) purged++;
+                  } catch (e) {
+                    console.error("Error purging:", e.message);
+                  }
+                }
+                console.log("Successfully refreshed " + purged + "/" + urls.size + " cached cards!");
+              });
+            }).on("error", (err) => {
+              console.error("Failed to fetch profile:", err.message);
+              process.exit(1);
+            });
+          '
