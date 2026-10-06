@@ -104,40 +104,10 @@
 
 <div align="center">
   <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=amiyshukla1-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800&v=2" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amiyshukla1-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117&hide_rank=true&v=3" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117&cache_seconds=1800&v=2" width="48%" alt="Top Languages" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://streak-stats.demolab.com?user=amiyshukla1-tech&theme=tokyonight&hide_border=true&stroke=38B2AC&ring=00D26A&fire=00D26A&currStreakLabel=38B2AC&sideLabels=9CA3AF&dates=9CA3AF&background=0D1117&date_format=j%20M%5B%20Y%5D&v=2" width="70%" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiyshukla1-tech&theme=tokyonight&v=2" width="96%" alt="GitHub Contribution Activity Graph" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiyshukla1-tech&theme=tokyonight&v=2" width="31%" alt="GitHub Stats Summary" />
-  </a>
-  <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiyshukla1-tech&theme=tokyonight&v=2" width="31%" alt="Repos Per Language" />
-  </a>
-  <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiyshukla1-tech&theme=tokyonight&utcOffset=5.5&v=2" width="31%" alt="Productive Hours" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117&v=3" width="48%" alt="Top Languages" />
   </a>
 </div>
 
