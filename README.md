@@ -122,10 +122,10 @@
 <tr>
 <td align="center" style="padding: 10px 14px 16px 14px;">
   <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=amiyshukla1-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117&hide_rank=true&hide=contribs&v=4" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amiyshukla1-tech&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=00D26A&text_color=9CA3AF&bg_color=0D1117&hide_rank=true&hide=contribs&v=5" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/amiyshukla1-tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117&v=4" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amiyshukla1-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38B2AC&text_color=9CA3AF&bg_color=0D1117&v=5" width="48%" alt="Top Languages" />
   </a>
 </td>
 </tr>
