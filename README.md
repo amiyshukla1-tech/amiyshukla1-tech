@@ -17,7 +17,7 @@
 <a href="#readme"><img src="./assets/status.svg" alt="System Status" /></a>
 </td>
 <td width="70%" align="left" valign="top" style="padding: 12px 16px;">
-<a href="#readme"><img src="./assets/terminal.svg?v=2" alt="Hacker Terminal" /></a><br/>
+<a href="#readme"><img src="./assets/console.svg" alt="Hacker Terminal" /></a><br/>
 <a href="https://github.com/amiyshukla1-tech"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/amiy-shukla-88598b322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:amiyshukla1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
