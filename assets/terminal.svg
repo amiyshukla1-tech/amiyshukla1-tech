@@ -1,9 +1,9 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 530 220'
+    viewBox='0 0 530 200'
     style='background-color: #0D111700;'
-    width='530px' height='220px'>
+    width='530px' height='200px'>
 
     <style>
 @font-face {
@@ -17,7 +17,7 @@
 
                 <path id='path0'>
                             <!-- Multiline -->
-                                <animate id='d0' attributeName='d' begin='0s;d9.end'
+                                <animate id='d0' attributeName='d' begin='0s;d8.end'
                     dur='5200ms' fill="freeze"
                     values='m0,17 h0 ; m0,17 h0 ; m0,17 h530 ; m0,17 h530' keyTimes='0;0;0.80769230769231;1' />
                     </path>
@@ -31,7 +31,7 @@
     </text>
         <path id='path1'>
                             <!-- Multiline -->
-                                <animate id='d1' attributeName='d' begin='0s;d9.end'
+                                <animate id='d1' attributeName='d' begin='0s;d8.end'
                     dur='10400ms' fill="freeze"
                     values='m0,34 h0 ; m0,34 h0 ; m0,34 h530 ; m0,34 h530' keyTimes='0;0.5;0.90384615384615;1' />
                     </path>
@@ -45,7 +45,7 @@
     </text>
         <path id='path2'>
                             <!-- Multiline -->
-                                <animate id='d2' attributeName='d' begin='0s;d9.end'
+                                <animate id='d2' attributeName='d' begin='0s;d8.end'
                     dur='15600ms' fill="freeze"
                     values='m0,51 h0 ; m0,51 h0 ; m0,51 h530 ; m0,51 h530' keyTimes='0;0.66666666666667;0.93589743589744;1' />
                     </path>
@@ -59,7 +59,7 @@
     </text>
         <path id='path3'>
                             <!-- Multiline -->
-                                <animate id='d3' attributeName='d' begin='0s;d9.end'
+                                <animate id='d3' attributeName='d' begin='0s;d8.end'
                     dur='20800ms' fill="freeze"
                     values='m0,68 h0 ; m0,68 h0 ; m0,68 h530 ; m0,68 h530' keyTimes='0;0.75;0.95192307692308;1' />
                     </path>
@@ -73,7 +73,7 @@
     </text>
         <path id='path4'>
                             <!-- Multiline -->
-                                <animate id='d4' attributeName='d' begin='0s;d9.end'
+                                <animate id='d4' attributeName='d' begin='0s;d8.end'
                     dur='26000ms' fill="freeze"
                     values='m0,85 h0 ; m0,85 h0 ; m0,85 h530 ; m0,85 h530' keyTimes='0;0.8;0.96153846153846;1' />
                     </path>
@@ -82,12 +82,12 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path4'>
-            &gt; [✓] Python | Scripting &amp; Problem Solving
+            &gt; [✓] Full Stack | Front-end Development
         </textPath>
     </text>
         <path id='path5'>
                             <!-- Multiline -->
-                                <animate id='d5' attributeName='d' begin='0s;d9.end'
+                                <animate id='d5' attributeName='d' begin='0s;d8.end'
                     dur='31200ms' fill="freeze"
                     values='m0,102 h0 ; m0,102 h0 ; m0,102 h530 ; m0,102 h530' keyTimes='0;0.83333333333333;0.96794871794872;1' />
                     </path>
@@ -96,12 +96,12 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path5'>
-            &gt; [✓] Full Stack | Front-end Development
+            $ cat featured_project.txt
         </textPath>
     </text>
         <path id='path6'>
                             <!-- Multiline -->
-                                <animate id='d6' attributeName='d' begin='0s;d9.end'
+                                <animate id='d6' attributeName='d' begin='0s;d8.end'
                     dur='36400ms' fill="freeze"
                     values='m0,119 h0 ; m0,119 h0 ; m0,119 h530 ; m0,119 h530' keyTimes='0;0.85714285714286;0.97252747252747;1' />
                     </path>
@@ -110,12 +110,12 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path6'>
-            $ cat featured_project.txt
+            &gt; [★] Skycast Weather | Live on Vercel
         </textPath>
     </text>
         <path id='path7'>
                             <!-- Multiline -->
-                                <animate id='d7' attributeName='d' begin='0s;d9.end'
+                                <animate id='d7' attributeName='d' begin='0s;d8.end'
                     dur='41600ms' fill="freeze"
                     values='m0,136 h0 ; m0,136 h0 ; m0,136 h530 ; m0,136 h530' keyTimes='0;0.875;0.97596153846154;1' />
                     </path>
@@ -124,12 +124,12 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path7'>
-            &gt; [★] Skycast Weather | Live on Vercel
+            $ echo &quot;Ready to collaborate!&quot;
         </textPath>
     </text>
         <path id='path8'>
                             <!-- Multiline -->
-                                <animate id='d8' attributeName='d' begin='0s;d9.end'
+                                <animate id='d8' attributeName='d' begin='0s;d8.end'
                     dur='46800ms' fill="freeze"
                     values='m0,153 h0 ; m0,153 h0 ; m0,153 h530 ; m0,153 h530' keyTimes='0;0.88888888888889;0.97863247863248;1' />
                     </path>
@@ -138,20 +138,6 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path8'>
-            $ echo &quot;Ready to collaborate!&quot;
-        </textPath>
-    </text>
-        <path id='path9'>
-                            <!-- Multiline -->
-                                <animate id='d9' attributeName='d' begin='0s;d9.end'
-                    dur='52000ms' fill="freeze"
-                    values='m0,170 h0 ; m0,170 h0 ; m0,170 h530 ; m0,170 h530' keyTimes='0;0.9;0.98076923076923;1' />
-                    </path>
-    <text font-family='"Fira Code", monospace' fill='#39FF14' font-size='12'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path9'>
             &gt; Ready to collaborate! 🚀
         </textPath>
     </text>
