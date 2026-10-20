@@ -22,20 +22,9 @@
 <a href="https://linkedin.com/in/amiy-shukla-88598b322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:amiyshukla1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://leetcode.com/u/amiyshukla1-tech"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<br/><br/>
-<a href="https://github.com/harshasf5025/hostel-complaint-classifier"><img src="https://img.shields.io/badge/Currently_Working_On-hostel--complaint--classifier-00D26A?style=flat-square&logo=github&logoColor=white" alt="Currently Working On" /></a>
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
-
-### 🔭 Currently Working On
-<p>
-  🚀 <b><a href="https://github.com/harshasf5025/hostel-complaint-classifier">hostel-complaint-classifier</a></b> — An automated NLP complaint classification &amp; priority triaging platform.
-</p>
-
 </div>
 
 ---
@@ -101,7 +90,6 @@
 
 ### 📈 Learning & Progress Log
 
-- `[▶]` **Currently Building:** [Hostel Complaint Classifier](https://github.com/harshasf5025/hostel-complaint-classifier) — NLP complaint classification & priority triaging with Tailwind CSS & daisyUI frontend
 - `[✓]` Built & Deployed **Skycast** — production-grade weather web app on Vercel
 - `[✓]` Engineered Serverless API Proxy architecture (`/api/weather.js`) to secure backend API keys
 - `[✓]` Mastered **Tailwind CSS v4** & **daisyUI v5** with dark-emerald glassmorphism styling
