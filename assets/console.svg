@@ -40,7 +40,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            &gt; Amiy Shukla | CSE Undergraduate | Front-end Developer
+            &gt; Amiy Shukla | CSE Undergraduate
         </textPath>
     </text>
         <path id='path2'>
@@ -82,7 +82,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path4'>
-            &gt; [✓] Full Stack | Front-end Development
+            &gt; [✓] Python
         </textPath>
     </text>
         <path id='path5'>
