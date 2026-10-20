@@ -46,7 +46,6 @@
 <p>
   <a href="#readme"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
   <a href="#readme"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#readme"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 </p>
 
 #### 🌐 Frontend Development
@@ -57,13 +56,6 @@
   <a href="#readme"><img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" /></a>
 </p>
 
-#### 🧠 Machine Learning & Backend
-<p>
-  <a href="#readme"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
-  <a href="#readme"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
-  <a href="#readme"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
-</p>
-
 #### 🔧 Tools & Workflow
 <p>
   <a href="#readme"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -71,38 +63,6 @@
   <a href="#readme"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
   <a href="#readme"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </p>
-
----
-
-### ⚡ Currently Working On: Hostel Complaint Classifier
-
-<table>
-  <tr>
-    <td>
-      <div align="right">
-        <a href="https://github.com/harshasf5025/hostel-complaint-classifier"><img src="https://img.shields.io/badge/Status-In_Development-FFA116?style=for-the-badge&logo=git&logoColor=black" alt="Status: In Development" /></a>
-        <a href="https://github.com/harshasf5025/hostel-complaint-classifier"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
-      </div>
-      <h3>🏢 <a href="https://github.com/harshasf5025/hostel-complaint-classifier">Hostel Complaint Classifier</a> &nbsp;<code>ACTIVE PROJECT</code></h3>
-      <p>
-        An intelligent NLP-powered hostel complaint classification and automated priority triaging system designed to streamline student issue tracking, categorization, and administrative resolution.
-      </p>
-      <p>
-        <b>Tech Stack:</b> 
-        <code>Python</code> · <code>Scikit-Learn (TF-IDF & Logistic Regression)</code> · <code>Streamlit</code> · <code>SQLite</code> · <code>Tailwind CSS</code> · <code>daisyUI</code>
-      </p>
-      <ul>
-        <li>🤖 <b>Intelligent NLP Multi-Class Classification:</b> Automated classification of complaints across departments (Maintenance, Security, Mess/Food, Laundry, Furniture) with dual-model priority scoring (Low, Medium, High).</li>
-        <li>🎨 <b>Modern Responsive Frontend:</b> Crafting an intuitive, accessible student complaint submission interface utilizing <b>Tailwind CSS</b> and <b>daisyUI</b> component design.</li>
-        <li>⚡ <b>Text Preprocessing & Feature Pipeline:</b> End-to-end data pipeline with text normalization, TF-IDF feature extraction, and balanced class weighting for high-accuracy predictions.</li>
-        <li>🗄️ <b>Persistent Complaint Logging:</b> SQLite database backend (<code>complaints.db</code>) capturing raw student submissions, preprocessed text, predicted category, and urgency level with incremental tracking.</li>
-      </ul>
-      <p>
-        💻 <b>Source Code & Collaboration:</b> <a href="https://github.com/harshasf5025/hostel-complaint-classifier">github.com/harshasf5025/hostel-complaint-classifier</a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
