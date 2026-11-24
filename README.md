@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development , DSA & Python**
 
-- 💬 Ask me about **Web Development, JAVA, C, PYTHON , AI**
+- 💬 Ask me about **Web Development, C, PYTHON , AI**
 
 - 📫 How to reach me **amiyshukla1@gmail.com**
 
